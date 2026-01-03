@@ -1,3 +1,9 @@
+Memfault forked this repo so we could have a fix for https://github.com/agronholm/cbor2/issues/255. If this gets merged upstream, we can delete this fork.
+
+---
+
+
+
 .. image:: https://github.com/agronholm/cbor2/actions/workflows/test.yml/badge.svg
   :target: https://github.com/agronholm/cbor2/actions/workflows/test.yml
   :alt: Testing Status
